@@ -7,6 +7,8 @@ function main (numOne, numTwo){
     return remainder;
 }
 
-console.log(main(10, 3));   //change this line
+console.log(main(5, 2));   //change this line
+console.log(main(15, 4));   //change this line
+console.log(main(102, 25));   //change this line
 
 module.exports = main;
