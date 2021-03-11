@@ -1,6 +1,6 @@
 function main() {
 
-    //only change code below this line
+    // only change code below this line
 
     var firstNum = 6;
     var secondNum = 25;
@@ -10,8 +10,8 @@ function main() {
     secondNum /= 5;
     thirdNum *= 10;
 
-    //only change code above this line
-    
+    // Only change code above this line
+
     return {
         firstNum,
         secondNum,
