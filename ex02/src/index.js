@@ -2,11 +2,11 @@ function main(){
 
     var myRes = 75;
     
-    //change code below this line
+    // only change code below this line
 
     myRes++;
 
-    //change code above this line
+    // only change code above this line
 
     return myRes;
 
