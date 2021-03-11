@@ -1,6 +1,6 @@
 function main() {
 
-    //only change code below this line
+    // only change code below this line
 
     var myX = 12;
     var myY = 19;
@@ -10,7 +10,7 @@ function main() {
     myY += 17;
     myZ -= 20;
 
-    //only change code above this line
+    // Only change code above this line
 
     return {
         myX,
