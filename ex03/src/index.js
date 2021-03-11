@@ -1,10 +1,10 @@
 function main(){
     var myRes = 16;
-    //only change code below this line
+    // only change code below this line
 
     myRes--;
 
-    //only change code above this line
+    // Only change code above this line
     return myRes;
 }
 
