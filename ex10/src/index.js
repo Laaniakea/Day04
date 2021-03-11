@@ -1,14 +1,14 @@
 function main(){
 
-    //Only change code below this line
+    // only change code below this line
 
     var myFirstName = "Edina";
     var myLastName = "Kurtic";
     var myHomeTown = "Sarajevo";
 
-    //Only change code above this line
+    // Only change code above this line
 
-    return{
+    return {
         myFirstName,
         myLastName,
         myHomeTown
